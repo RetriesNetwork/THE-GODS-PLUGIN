@@ -1,0 +1,3 @@
+on thunder:
+  trigger:
+      broadcast "&7[&c&lZUES&7] &7Thou shall not prevail!"
